@@ -1,0 +1,20 @@
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #F2F2F2;
+}
+span input.search-input {
+    background-image: url('https://www.w3schools.com/css/searchicon.png');
+    background-position: 20px center;
+    background-repeat: no-repeat;
+    /* width: 40%; */
+    width: auto;
+    padding: 10px 10px 15px 50px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    /* float: left; */
+}
